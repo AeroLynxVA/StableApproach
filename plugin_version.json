@@ -4,14 +4,10 @@
     "update_link":"https://github.com/Clamb94/StableApproach/releases"
   },
   "va":{
-    "report_server":{
-      "enabled": false,
-      "host": "api.stableapproach.net",
-      "target": "/report",
-      "semver": {
-        "min": "1.1.0",
-        "max": "1.98.0"
-      }
+       "report_server":{
+      "enabled": true,
+      "host": "https://crew.aerolynxva.org",
+      "target": "/dstable"
     },
     "aircraft_profiles":{
       "use_custom": false,
