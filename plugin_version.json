@@ -1,15 +1,15 @@
 {
   "plugin_version": {
     "semver": "1.4.0-beta.4",
-    "update_link":"https://github.com/Clamb94/StableApproach/releases"
+    "update_link": "https://github.com/Clamb94/StableApproach/releases"
   },
-  "va":{
-       "report_server":{
+  "va": {
+    "report_server": {
       "enabled": true,
-      "host": "https://crew.aerolynxva.org/",
+      "host": "https://crew.aerolynxva.org",
       "target": "/dstable"
     },
-    "aircraft_profiles":{
+    "aircraft_profiles": {
       "use_custom": true,
       "revert_to_default": true
     }
